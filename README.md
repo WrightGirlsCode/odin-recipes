@@ -1,2 +1,2 @@
 # odin-recipes
-This project will improve our HTML and Git skills. Including but not limited to text styling, links, and navigating/using Git.
+This recipe project will improve my  HTML and Git/Github usage and navigation skills.
