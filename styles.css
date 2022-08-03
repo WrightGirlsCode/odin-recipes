@@ -8,7 +8,7 @@ body {
 }
 
 .indexh1 {
-        background: url("indexbackground.jpg");
+        background-image: url("background.jpg");
         background-size: 1200px 580px;
         background-repeat: no-repeat;
         color: white;
