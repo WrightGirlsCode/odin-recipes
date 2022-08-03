@@ -8,14 +8,14 @@ body {
 }
 
 .indexh1 {
-        background-image: url("background.jpg");
-        background-size: 1200px 580px;
+        background-color: maroon;
+        background-size: 1200px 1200px;
         background-repeat: no-repeat;
         color: white;
         text-align: center;
-        margin: 70px;
+        margin: 100px;
         padding-left: 20px;
-        padding-right: 40px;
+        padding-right: 20px;
         border-radius: 10px;
       
 }
