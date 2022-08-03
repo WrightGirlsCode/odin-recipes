@@ -1,5 +1,5 @@
 body {
-    background-color: navajowhite;
+    background-color: rgb(5, 16, 4);
 }
 
 .vikingeat {
@@ -8,12 +8,13 @@ body {
 }
 
 .indexh1 {
-        background-color: maroon;
-        background-size: 1200px 1200px;
+        background-color: white;
+        background-size: 3000px 1200px;
         background-repeat: no-repeat;
-        color: white;
+        color: rgb(37,69,6);
         text-align: center;
-        margin: 100px;
+        font-size: 100px;
+        margin: 60px;
         padding-left: 20px;
         padding-right: 20px;
         border-radius: 10px;
