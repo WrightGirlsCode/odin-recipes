@@ -20,14 +20,14 @@ h1 {
 
 /* image styling */
 img {
-    height: 270px;
-    width: 290px;
+    height: 490px;
+    width: 450px;
     float: left;
     background-repeat: no-repeat;
     border-radius: 10px;
     border-style: double;
     /* border-color: darkslategray; */
-    margin: 60px 100px 130px 30px;
+    margin: 10px 100px 130px 90px;
 }
 
 /* styling description box */
