@@ -20,13 +20,12 @@ h1 {
 
 /* image styling */
 img {
-    height: 490px;
-    width: 450px;
+    height: 530px;
+    width: 550px;
     float: left;
     background-repeat: no-repeat;
     border-radius: 10px;
-    border-style: double;
-    /* border-color: darkslategray; */
+  border: 20px double white;
     margin: 10px 100px 130px 90px;
 }
 
