@@ -49,3 +49,18 @@ li {
     margin: 15px;
 
 }
+
+/* styling 'for the cake' section */
+#cake {
+    border: 20px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 9px;
+    margin: 200px 200px 40px 300px;
+  width: 500px;
+  height: 500px;
+    border: 13px outset maroon;
+    background-color: rgb(255, 161, 61);
+    display: inline-block;
+  font-size: 19px;
+}
