@@ -61,8 +61,8 @@ li {
     border: 20px solid white;
     border-radius: 10px;
     text-align: center;
-    padding: 9px;
-    margin: 40px 200px 40px 500px;
+    padding: 12px;
+    margin: 40px 200px 70px 500px;
     width: 400px;
     height: 429px;
     border: 13px outset maroon;
@@ -78,6 +78,7 @@ li {
     margin: 60px 800px 40px 500px;
     padding: 9px;
     width: 400px;
+    right: 30px;
     height: 300px;
     text-align: center;
     background-color: rgb(255, 161, 61);
