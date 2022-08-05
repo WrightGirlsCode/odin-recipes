@@ -19,6 +19,14 @@ h1 {
     font-size: 40px;
 }
 
+
+/* h2 styling */
+h2 {
+  text-shadow: 2px 2px 4px #9c9999;
+  font-size: 30px;
+  text-align: Center;
+  color: white;
+}
 /* image styling */
 img {
     height: 530px;
