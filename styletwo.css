@@ -8,7 +8,7 @@ body {
 
 /* heading styling */
 h1 {
-    background-color:rgb(201, 107, 6);
+    background-color: rgb(201, 107, 6);
     background-size: 1800px 790px;
     color: rgb(254, 254, 254);
     text-align: center;
@@ -25,17 +25,18 @@ img {
     float: left;
     background-repeat: no-repeat;
     border-radius: 10px;
-  border: 20px double white;
+    border: 20px double white;
     margin: 10px 100px 130px 90px;
 }
 
 /* styling description box */
 #desc {
-    background-color:rgb(201, 107, 6);
+    background-color: rgb(201, 107, 6);
     border-radius: 5px;
+    border: 13px outset maroon;
     padding: 40px;
     color: white;
-    width: 400px;
-    margin: 100px 90px 80px 700px;
+    width: 300px;
+    height: 350px;
+    margin: 2px 300px 30px 800px;
 }
-
