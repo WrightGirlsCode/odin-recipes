@@ -40,3 +40,12 @@ img {
     height: 350px;
     margin: 2px 300px 30px 800px;
 }
+
+/* styling all bullet points */
+li {
+    font-weight: bold;
+    font-family: Copperplate, sans-serif;
+    text-align: center;
+    margin: 15px;
+
+}
