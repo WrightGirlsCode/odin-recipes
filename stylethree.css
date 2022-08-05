@@ -1,1 +1,8 @@
 /* This is the CSS file for karekare.html */ 
+
+
+h1 {
+    border: 24px double navy;
+    text-align: center;
+
+}
