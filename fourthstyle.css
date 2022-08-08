@@ -3,3 +3,13 @@
 body {
     background-image: url("file:///Users/lolawright/repos/odin-recipes/recipes/images/poppybackground.jpg");
 }
+
+img {
+    text-align: center;
+}
+
+h2 {
+    background-color: pink;
+    border-radius: 2px;
+    
+}
