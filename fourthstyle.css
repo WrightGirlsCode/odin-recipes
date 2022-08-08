@@ -7,13 +7,16 @@ body {
 img {
     text-align: center;
     border-radius: 10px;
+    left: 400px;
     border: 8px outset pink;
 
 }
 
     .ten {
-    text-align: center;
-    right: 200px;
+    float: right;
+    height: 370px;
+    width: 400px;
+    margin: 10px;
 }
 
 h2 {
@@ -32,7 +35,7 @@ h2 {
     margin: 30px; 
     position: relative;
     text-align: left;
-    padding: 20px;
+    padding: 50px;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
