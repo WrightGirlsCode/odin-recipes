@@ -6,10 +6,19 @@ body {
 
 img {
     text-align: center;
+    border-radius: 10px;
+    border: 5px outset pink;
+    
 }
 
 h2 {
     background-color: pink;
-    border-radius: 2px;
-    
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    height: 50px;
+    margin: 13px;
+    padding: 20px;
 }
