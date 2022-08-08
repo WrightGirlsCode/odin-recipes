@@ -7,8 +7,13 @@ body {
 img {
     text-align: center;
     border-radius: 10px;
-    border: 5px outset pink;
+    border: 8px outset pink;
 
+}
+
+    .ten {
+    text-align: center;
+    right: 200px;
 }
 
 h2 {
@@ -31,3 +36,5 @@ h2 {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
