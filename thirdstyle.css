@@ -1,11 +1,12 @@
 /* This is the CSS file for karekare.html */
 
 body {
-    background-color:rgb(205, 137, 88);
+    background-color: rgb(205, 137, 88);
 }
 
-h1, h2{
-    color: rgb(23, 118, 23);    
+h1,
+h2 {
+    color: rgb(23, 118, 23);
     background-color: rgb(66, 23, 6);
     background-size: 1800px 790px;
     text-align: center;
@@ -19,23 +20,23 @@ h1, h2{
 
 /* styling both images */
 img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 400px;
-border: 17px double black;
-height: 300px;
-border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border: 17px double black;
+    height: 300px;
+    border-radius: 10%;
 }
 
 /* when hover, flips image */
 img:hover {
     transform: scaleX(-1);
-  }
-  
+}
 
-  /* div for description */
-  #desc {
+
+/* div for description */
+#desc {
     background-color: rgb(250, 240, 230);
     color: rgb(51, 125, 22);
     border: 8px outset rgb(144, 38, 17);
@@ -49,6 +50,40 @@ img:hover {
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: bold;
     margin: 40px;
-    }
+}
 
-    
+#stew {
+    background-color: rgb(120, 164, 103);
+    border: 8px outset rgb(240, 251, 236);
+    color: rgb(151, 28, 28);
+    border-radius: 20px;
+    width: 900px;
+    height: 380px;
+    left: 200px;
+    position: relative;
+    font-size: 19px;
+    text-align: center;
+    font-family: 'Copperplate', sans-serif;
+    font-weight: bold;
+    margin: 40px;
+}
+
+#bagoong {
+    background-color: rgb(120,164,103);
+    border: 8px outset rgb(240,251,236);
+    color: rgb(150, 28, 28);
+    border-radius: 20px;
+    position: relative;
+    width: 900px;
+    height: 220px;
+    left: 200px;
+    margin: 50px;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Copperplate', sans-serif;
+    font-weight: bold;
+}
+
+#bagsteps {
+    margin: 200px 100px 80px 20px;
+}
