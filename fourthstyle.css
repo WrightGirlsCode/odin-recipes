@@ -1,3 +1,5 @@
 /* This CSS file styles poppyseedtorte.html */
 
-
+body {
+    background-image: url("file:///Users/lolawright/repos/odin-recipes/recipes/images/poppybackground.jpg");
+}
